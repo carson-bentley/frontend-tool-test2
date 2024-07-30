@@ -14,7 +14,7 @@ export function reloadScript() {
   
   // Set attributes for the script
   scriptElement.src = "https://giscus-seven.vercel.app/client.js";
-  scriptElement.setAttribute('data-repo', "KBR-DREAMM-Team/frontend-tool");
+  scriptElement.setAttribute('data-repo', "carson-bentley/frontend-tool-test2");
   scriptElement.setAttribute('data-repo-id', "R_kgDOMdB6LQ");
   scriptElement.setAttribute('data-category', "Announcements");
   scriptElement.setAttribute('data-category-id', "DIC_kwDOMdB6Lc4ChRuY");
