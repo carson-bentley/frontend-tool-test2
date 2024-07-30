@@ -14,10 +14,10 @@ export function reloadScript() {
   
   // Set attributes for the script
   scriptElement.src = "https://giscus-seven.vercel.app/client.js";
-  scriptElement.setAttribute('data-repo', "carson-bentley/frontend-tool-test2");
-  scriptElement.setAttribute('data-repo-id', "R_kgDOMdB6LQ");
+  scriptElement.setAttribute('data-repo', "KBR-DREAMM-TEAM/frontend-tool");
+  scriptElement.setAttribute('data-repo-id', "R_kgDOMIn6OA");
   scriptElement.setAttribute('data-category', "Announcements");
-  scriptElement.setAttribute('data-category-id', "DIC_kwDOMdB6Lc4ChRuY");
+  scriptElement.setAttribute('data-category-id', "DIC_kwDOMIn6OM4CgDDI");
   scriptElement.setAttribute('data-mapping', "pathname");
   scriptElement.setAttribute('data-strict', "0");
   scriptElement.setAttribute('data-reactions-enabled', "1");
