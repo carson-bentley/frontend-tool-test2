@@ -1,0 +1,18 @@
+
+
+#giscus-container{
+    max-height: 400px;
+    max-width: 750px;
+    overflow-y: auto;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+
+@media screen and (min-width: 1510px){
+    #giscus-container{
+        margin-top: 20em;
+        width: 750px
+    }
+}
+
